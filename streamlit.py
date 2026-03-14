@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 from sqlalchemy import create_engine
 
-
 # Page title and layout width.
 
 st.set_page_config(page_title="Bird Species Analysis", layout="wide")
@@ -58,7 +57,6 @@ intervals = st.sidebar.multiselect("Select Time Interval",sorted(df["interval_le
 filtered_df = df[(df["month"].isin(months)) &(df["interval_length"].isin(intervals))]
 
 
-
 def seasonal_trends():                         # For seasonal chart.
 
     st.header("📅Seasonal Bird Sightings")
@@ -75,7 +73,6 @@ def seasonal_trends():                         # For seasonal chart.
     st.plotly_chart(fig,width='stretch')
 
 
-
 def species_distribution():                    # For species distribution barchart
 
     st.header("🦢Species Distribution")
@@ -89,8 +86,6 @@ def species_distribution():                    # For species distribution barcha
           title="Bird Species Distribution")
     st.plotly_chart(fig,width='stretch')
     
-
-
 
 def observer_trends():                          # For observer barchart.
 
@@ -106,7 +101,6 @@ def observer_trends():                          # For observer barchart.
           title="Observer Activity")
 
     st.plotly_chart(fig,width='stretch')
-
 
 
 def environmental_impact():                     # For environment scatterchart.
