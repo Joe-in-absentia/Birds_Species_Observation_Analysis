@@ -72,7 +72,7 @@ The dashboard allows users to explore:
 
 ## Environmental Impact
 
-![Temperature Impact](env.png)
+![Temperature Impact](https://github.com/Joe-in-absentia/Birds_Species_Observation_Analysis/blob/c04f1445dde251c6e30364e24447438379ad65f7/env.png)
 
 ---
 
