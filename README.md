@@ -35,7 +35,7 @@ The dashboard allows users to explore:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 ## Software
 
