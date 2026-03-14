@@ -64,7 +64,7 @@ The dashboard allows users to explore:
 
 ## Main Dashboard
 
-![Dashboard](main.png)
+![Dashboard](https://github.com/Joe-in-absentia/Birds_Species_Observation_Analysis/blob/c3926b94bda6b4374a30b83c5533d936a9ea30f9/main.png)
 
 ## Species Distribution Visualization
 
