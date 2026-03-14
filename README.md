@@ -68,7 +68,7 @@ The dashboard allows users to explore:
 
 ## Species Distribution Visualization
 
-![Species Distribution](screenshots/dashboard2.png)
+![Species Distribution](speceis.png)
 
 ## Environmental Impact
 
