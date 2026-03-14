@@ -64,7 +64,7 @@ The dashboard allows users to explore:
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](main.png)
 
 ## Species Distribution Visualization
 
