@@ -72,7 +72,7 @@ The dashboard allows users to explore:
 
 ## Environmental Impact
 
-![Temperature Impact](screenshots/dashboard3.png)
+![Temperature Impact](env.png)
 
 ---
 
