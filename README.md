@@ -70,9 +70,9 @@ The dashboard allows users to explore:
 
 ![Species Distribution](screenshots/dashboard2.png)
 
-## Seasonal Trends Analysis
+## Environmental Impact
 
-![Seasonal Trends](screenshots/dashboard3.png)
+![Temperature Impact](screenshots/dashboard3.png)
 
 ---
 
