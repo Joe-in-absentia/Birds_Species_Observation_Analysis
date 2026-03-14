@@ -68,7 +68,7 @@ The dashboard allows users to explore:
 
 ## Species Distribution Visualization
 
-![Species Distribution](speceis.png)
+![Species Distribution](https://github.com/Joe-in-absentia/Birds_Species_Observation_Analysis/blob/3964e563973e3c508bd1ad05f4df610d7995f582/speceis.png)
 
 ## Environmental Impact
 
