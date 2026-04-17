@@ -1,8 +1,9 @@
 # 🐦 Bird Species Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![SQL](https://img.shields.io/badge/Database-SQL-green)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 An **interactive bird biodiversity analysis dashboard** built using **Python, SQL, and Streamlit**.
