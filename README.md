@@ -25,7 +25,7 @@ The dashboard allows users to explore:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✔ Data Cleaning and Preprocessing
 ✔ Handling Missing Values and Outliers
@@ -61,7 +61,7 @@ The dashboard allows users to explore:
 
 ---
 
-# 📊 Dashboard Screenshots
+#  Dashboard Screenshots
 
 ## Main Dashboard
 
